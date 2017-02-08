@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SpinnerTest</string>
+    <string-array name="country">
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>USA</item>
+    </string-array>
+
+    <string-array name="ind_states">
+        <item>UP</item>
+        <item>MP</item>
+        <item>Bihar</item>
+        <item>Panjab</item>
+    </string-array>
+    <string-array name="pak_states">
+        <item>Lahor</item>
+        <item>Karachi</item>
+    </string-array>
+
+    <string-array name="usa_states">
+        <item>New York</item>
+        <item>Bostan</item>
+
+    </string-array>
+
+</resources>
